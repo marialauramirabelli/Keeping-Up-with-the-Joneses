@@ -1,0 +1,29 @@
+html{
+	font-family: 'VT323', monospace;
+	background-image: url("stars.gif");
+}
+#congrats{
+	position: absolute;
+	top: 150px;
+	text-align: center;
+	width: 1510px;
+	font-size: 100px;
+	color: black;
+}
+#message{
+	position: absolute;
+	top: 740px;
+	right: 20px;
+	text-align: right;
+	width: 1510px;
+	font-size: 20px;
+	color: black;
+}
+#start_button{
+	background-image: url("start.png");
+	position: absolute;
+	top: 450px;
+	left: 619.5px;
+	height: 84px;
+	width: 271px;
+}

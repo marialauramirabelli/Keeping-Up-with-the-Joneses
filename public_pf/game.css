@@ -1,0 +1,309 @@
+html{
+	font-family: 'VT323', monospace;
+}
+
+#upper_left{
+	position: absolute;
+	top: 199px;
+	left: 70px;
+	height: 290px;
+	width: 315px;
+	border-style: solid;
+	border-color: rgb(217, 217, 217);
+}
+#lower_left{
+	position: absolute;
+	top: 500px;
+	left: 70px;
+	height: 310px;
+	width: 315px;
+	border-style: solid;
+	border-color: rgb(217, 217, 217);
+}
+#tv_button{
+	position: absolute;
+	top: 220px;
+	left: 10px;
+	height: 80px;
+	width: 100px;
+	visibility: hidden;
+	background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+#upper_right{
+	position: absolute;
+	top: 199px;
+	left: 1124px;
+	height: 290px;
+	width: 315px;
+	border-style: solid;
+	border-color: rgb(217, 217, 217);
+}
+
+#grid{
+	position: absolute;
+	background-image: url("grid.png");
+	width: 617px;
+	height: 625px;
+	top: 199px;
+	left: 451px;
+	color: white;
+	font-size: 25px;
+}
+
+#household1{
+	position: absolute;
+	height: 20px;
+	top: -35px;
+	left: 45px;
+	font-size: 40px;
+}
+#household2{
+	position: absolute;
+	height: 20px;
+	top: -8px;
+	left: 328px;
+}
+#household3{
+	position: absolute;
+	height: 20px;
+	top: 185px;
+	left: 43px;
+}
+#household4{
+	position: absolute;
+	height: 20px;
+	top: 185px;
+	left: 328px;
+}
+#household5{
+	position: absolute;
+	height: 20px;
+	top: 378px;
+	left: 43px;
+}
+#household6{
+	position: absolute;
+	height: 20px;
+	top: 378px;
+	left: 328px;
+}
+
+#house1{
+	background-image: url("Extremely Low.png");
+	position: absolute;
+	top: 43px;
+	left: 43px;
+	width: 248px;
+	height: 156px;
+}
+#house2{
+	background-image: url("Extremely Low.png");
+	position: absolute;
+	top: 43px;
+	left: 328px;
+	width: 248px;
+	height: 156px;
+}
+#house3{
+	background-image: url("Extremely Low.png");
+	position: absolute;
+	top: 235px;
+	left: 43px;
+	width: 248px;
+	height: 156px;
+}
+#house4{
+	background-image: url("Extremely Low.png");
+	position: absolute;
+	top: 235px;
+	left: 328px;
+	width: 248px;
+	height: 156px;
+}
+#house5{
+	background-image: url("Extremely Low.png");
+	position: absolute;
+	top: 427px;
+	left: 43px;
+	width: 248px;
+	height: 156px;
+}
+#house6{
+	background-image: url("Extremely Low.png");
+	position: absolute;
+	top: 427px;
+	left: 328px;
+	width: 248px;
+	height: 156px;
+}
+
+#game_name{
+	position: absolute;
+	margin-top: 0px;
+	text-align: center;
+	width: 1510px;
+	font-size: 100px;
+	color: rgb(0, 153, 255);
+}
+#goal{
+	position: absolute;
+	text-align: center;
+	top: 100px;
+	width: 1510px;
+	font-size: 30px;
+	color: black;
+}
+
+#x{
+	background-image: url("x.png");
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 58px;
+	width: 80px;
+}
+#question_suicide{
+	background-image: url("question_suicide.png");
+	position: absolute;
+	top: 200px;
+	left: 357.5px;
+	height: 342px;
+	width: 795px;
+	visibility: hidden;
+}
+#question_yes{
+	background-image: url("yes.png");
+	position: absolute;
+	top: 221.5px;
+	left: 90.5px;
+	height: 84px;
+	width: 271px;
+	visibility: hidden;
+}
+#question_no{
+	background-image: url("no.png");
+	position: absolute;
+	top: 221.5px;
+	left: 443.5px;
+	height: 84px;
+	width: 271px;
+	visibility: hidden;
+}
+
+#meas{
+	background-image: url("Extremely Low Mes.png");
+	position: absolute;
+	top: 80px;
+	left: 20px;
+	margin: 10px;
+	width: 11px;
+	height: 144px;
+}
+
+#time{
+	position: absolute;
+	margin: 10px;
+	font-size: 25px;
+	color: black;
+}
+#generation{
+	position: absolute;
+	margin: 10px;
+	font-size: 25px;
+	color: black;
+}
+
+#user_class{
+	position: absolute;
+	top: 80px;
+	left: 60px;
+	height: 20px;
+	width: 400px;
+	font-size: 25px;
+	color: black;
+}
+#user_income{
+	position: absolute;
+	top: 120px;
+	left: 60px;
+	height: 20px;
+	width: 400px;
+	font-size: 25px;
+	color: black;
+}
+
+#arrow_income{
+	background-image: url("blankarrow.png");
+	position: absolute;
+	top: 190px;
+	left: 120px;
+	height: 56px;
+	width: 57px;
+}
+
+#household_name{
+	position: absolute;
+	margin: 10px;
+	font-size: 35px;
+	color: rgb(0, 153, 255);
+}
+#household_classincome{
+	position: absolute;
+	margin: 10px;
+	top: 35px;
+	font-size: 25px;
+	color: black;
+}
+#property{
+	position: absolute;
+	margin: 10px;
+	top: 100px;
+	font-size: 25px;
+	color: black;
+	visibility: hidden;
+}
+#property_objects{
+	position: absolute;
+	margin: 10px;
+	top: 130px;
+	height: 162px;
+	width: 303px;
+}
+#obstacle{
+	position: absolute;
+	margin: 10px;
+	top: 80px;
+	font-size: 25px;
+}
+
+#job_alert{
+	position: absolute;
+	margin: 10px;
+	top: 155px;
+	font-size: 45px;
+}
+#coin{
+	background-image: url("nocoin.png");
+	position: absolute;
+	top: 500px;
+	left: 1124px;
+	height: 320px;
+	width: 320px;
+}
+#job_points{
+	position: absolute;
+	margin: 10px;
+	top: 215px;
+	font-size: 25px;
+}
+#job_clicks{
+	position: absolute;
+	margin: 10px;
+	top: 240px;
+	font-size: 25px;
+}

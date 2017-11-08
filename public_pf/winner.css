@@ -1,0 +1,28 @@
+html{
+	font-family: 'VT323', monospace;
+	background-image: url("confetti.gif");
+}
+#congrats{
+	position: absolute;
+	top: 150px;
+	text-align: center;
+	width: 1510px;
+	font-size: 100px;
+	color: black;
+}
+#message{
+	position: absolute;
+	top: 280px;
+	text-align: center;
+	width: 1510px;
+	font-size: 40px;
+	color: black;
+}
+#play_again{
+	background-image: url("play_again.png");
+	position: absolute;
+	top: 450px;
+	left: 619.5px;
+	height: 84px;
+	width: 271px;
+}
