@@ -3,27 +3,27 @@ html{
 }
 
 .column {
-  float: left;
-  width: 33.33%;
+ 	float: left;
+	width: 33.33%;
 }
 
 #bdy:after {
-  content: "";
-  display: table;
-  clear: both;
+  	content: "";
+  	display: table;
+  	clear: both;
 }
 
 #upper_left{
 	position: relative;
-	width: 25vw;
-	height: 25vw;
+	width: 20vw;
+	height: 20vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
 #lower_left{
 	position: relative;
-	width: 25vw;
-	height: 25vw;
+	width: 20vw;
+	height: 20vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
@@ -43,8 +43,8 @@ html{
 }
 #upper_right{
 	position: relative;
-	width: 25vw;
-	height: 25vw;
+	width: 20vw;
+	height: 20vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
@@ -276,7 +276,7 @@ html{
 }
 #property_objects{
 	margin: 10px;
-	margin-top:12vw;
+	margin-top:10vw;
 	max-width: 20vw;
 }
 #obstacle{
