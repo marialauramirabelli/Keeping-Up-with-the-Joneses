@@ -271,6 +271,7 @@ html{
 	visibility: hidden;
 }
 #property_objects{
+	object-fit: cover;
 	margin: 10px;
 	height: 7vh;
 }
