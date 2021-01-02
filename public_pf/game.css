@@ -3,6 +3,7 @@ html{
 }
 
 #upper_left{
+	overflow: hidden;
 	width: 25vw;
 	height: 25vw;
 	border-style: solid;
