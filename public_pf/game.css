@@ -269,14 +269,13 @@ html{
 #property{
 	position: absolute;
 	margin: 10px;
-	top: 40px; 
 	font-size: 25px;
 	color: black;
 	visibility: hidden;
 }
 #property_objects{
+	position: absolute;
 	margin: 10px;
-	top: 45px; 
 	max-height: 5vh;
 }
 #obstacle{
