@@ -1,28 +1,30 @@
 html{
 	font-family: 'VT323', monospace;
 	background-image: url("confetti.gif");
+	background-size: max-width max-height;
 }
 #congrats{
-	position: absolute;
-	top: 150px;
 	text-align: center;
-	width: 1510px;
 	font-size: 100px;
 	color: black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 #message{
-	position: absolute;
-	top: 280px;
 	text-align: center;
-	width: 1510px;
 	font-size: 40px;
 	color: black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 #play_again{
 	background-image: url("play_again.png");
-	position: absolute;
-	top: 450px;
-	left: 619.5px;
-	height: 84px;
-	width: 271px;
+	background-size: cover;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30vw;
+	height: 20vh;
 }
