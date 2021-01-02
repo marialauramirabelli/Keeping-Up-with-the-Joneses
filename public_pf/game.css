@@ -143,12 +143,13 @@ html{
 	margin-right: auto;
 }
 #goal{
-	position: absolute;
 	text-align: center;
 	top: 100px;
-	width: 1510px;
 	font-size: 30px;
 	color: black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #x{
