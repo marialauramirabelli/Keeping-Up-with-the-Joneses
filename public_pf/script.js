@@ -249,7 +249,7 @@ function displayInfo(){
 	if(property_button == 6){
   		document.getElementById("household_classincome").innerHTML = user[1] + " Income";
   		if(playing == false){
-  			document.getElementById("property_objects").innerHTML ="<img src='"+user[1]+" Objects.png'>";
+  			document.getElementById("property_objects").innerHTML ="<img src='"+user[1]+" Objects.png' style='object-fit: contain'>";
 			if(user[1] != "Extremely Low"){
 				document.getElementById("tv_button").style.visibility = "visible";
 			}
