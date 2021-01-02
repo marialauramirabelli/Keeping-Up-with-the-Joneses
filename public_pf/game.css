@@ -254,27 +254,23 @@ html{
 }
 
 #household_name{
-	position: absolute;
 	margin: 10px;
 	font-size: 35px;
 	color: rgb(0, 153, 255);
 }
 #household_classincome{
-	position: absolute;
 	margin: 10px;
 	top: 35px;
 	font-size: 25px;
 	color: black;
 }
 #property{
-	position: absolute;
 	margin: 10px;
 	font-size: 25px;
 	color: black;
 	visibility: hidden;
 }
 #property_objects{
-	position: absolute;
 	margin: 10px;
 	height: 5%;
 }
