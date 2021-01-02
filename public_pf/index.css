@@ -1,15 +1,15 @@
 html{
 	font-family: 'VT323', monospace;
 	background-image: url("stars.gif");
-	background-size: cover;
-	width: 100%; 
-	height: 100%
+	background-size: max-width max-height;
 }
 #congrats{
-	position: absolute;
 	text-align: center;
 	font-size: 100px;
 	color: black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 #start_button{
 	background-image: url("start.png");
@@ -17,5 +17,5 @@ html{
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
-	height: auto;
+	height: 20%;
 }
