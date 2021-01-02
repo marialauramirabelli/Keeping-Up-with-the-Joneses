@@ -3,13 +3,14 @@ html{
 }
 
 #upper_left{
-	overflow: hidden;
+	position: relative;
 	width: 25vw;
 	height: 25vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
 #lower_left{
+	position: relative;
 	width: 25vw;
 	height: 25vw;
 	border-style: solid;
@@ -30,6 +31,7 @@ html{
 	outline:none;
 }
 #upper_right{
+	position: relative;
 	width: 25vw;
 	height: 25vw;
 	border-style: solid;
