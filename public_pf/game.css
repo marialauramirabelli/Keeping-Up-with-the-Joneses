@@ -272,7 +272,7 @@ html{
 }
 #property_objects{
 	margin: 10px;
-	height: 5%;
+	height: 7vh;
 }
 #obstacle{
 	position: absolute;
