@@ -143,12 +143,14 @@ html{
 }
 
 #game_name{
-	position: absolute;
 	margin-top: 0px;
 	text-align: center;
-	width: 1510px;
+	width: 80%;
 	font-size: 100px;
 	color: rgb(0, 153, 255);
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 #goal{
 	position: absolute;
