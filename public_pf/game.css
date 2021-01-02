@@ -274,6 +274,7 @@ html{
 	visibility: hidden;
 }
 #property_objects{
+	background-size: cover;
 	position: absolute;
 	margin: 10px;
 	max-height: 5vh;
