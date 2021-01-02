@@ -269,6 +269,7 @@ html{
 #property{
 	position: absolute;
 	margin: 10px;
+	top: 35px; 
 	font-size: 25px;
 	color: black;
 	visibility: hidden;
@@ -276,7 +277,7 @@ html{
 #property_objects{
 	margin: 10px;
 	margin-top:10vw;
-	max-height: 10vh;
+	max-height: 5vh;
 }
 #obstacle{
 	position: absolute;
