@@ -277,9 +277,7 @@ html{
 #property_objects{
 	position: absolute;
 	margin: 10px;
-	top: 130px;
-	height: 162px;
-	width: 303px;
+	max-width: 20vw;
 }
 #obstacle{
 	position: absolute;
