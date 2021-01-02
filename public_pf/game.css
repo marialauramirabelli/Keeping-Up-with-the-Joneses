@@ -54,6 +54,7 @@ html{
 	background-image: url("grid.png");
 	background-size: 100%;
 	font-size: 25px;
+	max-width: 100%;
 }
 
 #household1{
