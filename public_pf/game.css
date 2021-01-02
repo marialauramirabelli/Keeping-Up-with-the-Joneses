@@ -2,6 +2,17 @@ html{
 	font-family: 'VT323', monospace;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+#bdy:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 #upper_left{
 	position: relative;
 	width: 25vw;
