@@ -51,8 +51,8 @@ html{
 
 #grid{
 	position: relative;
-	background-image: url("grid.png");
-	background-size: 100%;
+	background-image: url("grid.png") no-repeat;
+	background-size: cover;
 	font-size: 25px;
 	width: 40vw;
 	height: 45vw;
