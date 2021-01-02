@@ -13,9 +13,10 @@ html{
 }
 #start_button{
 	background-image: url("start.png");
+	background-size: cover;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50vw;
+	width: 30vw;
 	height: 20vh;
 }
