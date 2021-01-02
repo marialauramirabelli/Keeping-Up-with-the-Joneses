@@ -9,11 +9,8 @@ html{
 	border-color: rgb(217, 217, 217);
 }
 #lower_left{
-	position: absolute;
-	top: 500px;
-	left: 70px;
-	height: 310px;
-	width: 315px;
+	width: 25vw;
+	height: 25vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
@@ -25,18 +22,15 @@ html{
 	width: 100px;
 	visibility: hidden;
 	background-color: transparent;
-    background-repeat:no-repeat;
-    border: none;
-    cursor:pointer;
-    overflow: hidden;
-    outline:none;
+	background-repeat:no-repeat;
+	border: none;
+	cursor:pointer;
+	overflow: hidden;
+	outline:none;
 }
 #upper_right{
-	position: absolute;
-	top: 199px;
-	left: 1124px;
-	height: 290px;
-	width: 315px;
+	width: 25vw;
+	height: 25vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
