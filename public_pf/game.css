@@ -3,11 +3,8 @@ html{
 }
 
 #upper_left{
-	position: absolute;
-	top: 199px;
-	left: 70px;
-	height: 290px;
-	width: 315px;
+	width: 25vw;
+	height: 25vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
