@@ -276,6 +276,7 @@ html{
 }
 #property_objects{
 	margin: 10px;
+	margin-top:50%;
 	max-width: 20vw;
 }
 #obstacle{
