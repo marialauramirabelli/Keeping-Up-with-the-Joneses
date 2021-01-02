@@ -15,6 +15,7 @@ html{
 	border-color: rgb(217, 217, 217);
 }
 #tv_button{
+	position: absolute;
 	top: 220px;
 	left: 10px;
 	height: 80px;
@@ -238,17 +239,20 @@ html{
 }
 
 #household_name{
+	position: absolute;
 	margin: 10px;
 	font-size: 35px;
 	color: rgb(0, 153, 255);
 }
 #household_classincome{
+	position: absolute;
 	margin: 10px;
 	top: 35px;
 	font-size: 25px;
 	color: black;
 }
 #property{
+	position: absolute;
 	margin: 10px;
 	top: 100px;
 	font-size: 25px;
@@ -256,6 +260,7 @@ html{
 	visibility: hidden;
 }
 #property_objects{
+	position: absolute;
 	margin: 10px;
 	top: 130px;
 	height: 162px;
