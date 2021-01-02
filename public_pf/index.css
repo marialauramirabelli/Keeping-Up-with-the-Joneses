@@ -8,7 +8,7 @@ html{
 	position: absolute;
 	top: 150px;
 	text-align: center;
-	width: 1510px;
+	width: 100%;
 	font-size: 100px;
 	color: black;
 }
@@ -17,7 +17,7 @@ html{
 	top: 740px;
 	right: 20px;
 	text-align: right;
-	width: 1510px;
+	width: 100%;
 	font-size: 20px;
 	color: black;
 }
