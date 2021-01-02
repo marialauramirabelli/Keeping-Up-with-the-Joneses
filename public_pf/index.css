@@ -13,6 +13,9 @@ html{
 }
 #start_button{
 	background-image: url("start.png");
-	position: absolute;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	width: 50%;
+	height: auto;
 }
