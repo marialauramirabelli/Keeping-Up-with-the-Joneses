@@ -15,14 +15,14 @@ html{
 
 #upper_left{
 	position: relative;
-	width: 20vw;
+	width: 25vw;
 	height: 20vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
 }
 #lower_left{
 	position: relative;
-	width: 20vw;
+	width: 25vw;
 	height: 20vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
@@ -43,7 +43,7 @@ html{
 }
 #upper_right{
 	position: relative;
-	width: 20vw;
+	width: 25vw;
 	height: 20vw;
 	border-style: solid;
 	border-color: rgb(217, 217, 217);
