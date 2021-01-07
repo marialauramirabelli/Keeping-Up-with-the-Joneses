@@ -57,10 +57,10 @@ html{
 #grid{
 	position: relative;
 	background-image: url("grid.png");
-	background-size: cover;
+	background-size: contain;
 	font-size: 25px;
 	width: 48vw;
-	height: 100vh;
+	height: auto;
 }
 
 #household1{
