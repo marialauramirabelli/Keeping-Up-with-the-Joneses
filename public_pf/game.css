@@ -8,8 +8,7 @@ html{
 }
 .column2 {
  	float: left;
-	width: 22%;
-	height: 100%;
+	width: 10%;
 }
 
 #bdy:after {
