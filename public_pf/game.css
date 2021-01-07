@@ -172,7 +172,7 @@ html{
 #x{
 	background-image: url("x.png");
 	position: fixed;
-  	bottom: 0;
+  	top: 0;
   	right: 0;
 	height: 58px;
 	width: 80px;
