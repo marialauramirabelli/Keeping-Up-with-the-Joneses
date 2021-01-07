@@ -179,9 +179,9 @@ html{
 }
 #question_suicide{
 	background-image: url("question_suicide.png");
-	position: absolute;
-	top: 200px;
-	left: 357.5px;
+	position: fixed;
+  	top: 20px;
+  	right: 20px;
 	height: 342px;
 	width: 795px;
 	visibility: hidden;
