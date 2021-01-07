@@ -9,6 +9,7 @@ html{
 .column2 {
  	float: left;
 	width: 44%;
+	height: 100%;
 }
 
 #bdy:after {
