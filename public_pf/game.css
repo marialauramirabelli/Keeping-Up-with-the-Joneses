@@ -55,38 +55,38 @@ html{
 }
 
 #household1{
-	position: absolute;
+	position: relative;
 	height: 20px;
 	top: -35px;
 	left: 45px;
 	font-size: 40px;
 }
 #household2{
-	position: absolute;
+	position: relative;
 	height: 20px;
 	top: -8px;
 	left: 328px;
 }
 #household3{
-	position: absolute;
+	position: relative;
 	height: 20px;
 	top: 185px;
 	left: 43px;
 }
 #household4{
-	position: absolute;
+	position: relative;
 	height: 20px;
 	top: 185px;
 	left: 328px;
 }
 #household5{
-	position: absolute;
+	position: relative;
 	height: 20px;
 	top: 378px;
 	left: 43px;
 }
 #household6{
-	position: absolute;
+	position: relative;
 	height: 20px;
 	top: 378px;
 	left: 328px;
@@ -94,7 +94,7 @@ html{
 
 #house1{
 	background-image: url("Extremely Low.png");
-	position: absolute;
+	position: relative;
 	top: 43px;
 	left: 43px;
 	width: 248px;
@@ -102,7 +102,7 @@ html{
 }
 #house2{
 	background-image: url("Extremely Low.png");
-	position: absolute;
+	position: relative;
 	top: 43px;
 	left: 328px;
 	width: 248px;
@@ -110,7 +110,7 @@ html{
 }
 #house3{
 	background-image: url("Extremely Low.png");
-	position: absolute;
+	position: relative;
 	top: 235px;
 	left: 43px;
 	width: 248px;
@@ -118,7 +118,7 @@ html{
 }
 #house4{
 	background-image: url("Extremely Low.png");
-	position: absolute;
+	position: relative;
 	top: 235px;
 	left: 328px;
 	width: 248px;
@@ -126,7 +126,7 @@ html{
 }
 #house5{
 	background-image: url("Extremely Low.png");
-	position: absolute;
+	position: relative;
 	top: 427px;
 	left: 43px;
 	width: 248px;
@@ -134,7 +134,7 @@ html{
 }
 #house6{
 	background-image: url("Extremely Low.png");
-	position: absolute;
+	position: relative;
 	top: 427px;
 	left: 328px;
 	width: 248px;
