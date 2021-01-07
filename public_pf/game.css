@@ -167,6 +167,8 @@ html{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 0%;
+	padding-bottom: 0%;
 }
 
 #x{
