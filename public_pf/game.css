@@ -171,9 +171,9 @@ html{
 
 #x{
 	background-image: url("x.png");
-	position: absolute;
-	top: 0px;
-	right: 0px;
+	position: fixed;
+  	bottom: 0;
+  	right: 0;
 	height: 58px;
 	width: 80px;
 }
