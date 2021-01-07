@@ -175,8 +175,7 @@ html{
 	position: fixed;
   	top: 20px;
   	right: 20px;
-	height: 342px;
-	width: 795px;
+	width: 50vw;
 	visibility: hidden;
 }
 #question_yes{
