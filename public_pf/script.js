@@ -416,7 +416,7 @@ function quit(){
 //if user "wants to commit suicide," opens google search "suicide+poverty" 
 function quitYes(){
 	if(quit_botton == true){
-		window.location="https://www.google.com/#q=suicide%20%2B%20poverty";
+		window.close();
 	};
 };
 
